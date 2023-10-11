@@ -1,0 +1,11 @@
+- El uso del react navigation, utilizando el safe area provider y safe area context de estos (routes)
+
+- El uso del hook de useNavigation, no solo para cambiar de una view a otra, si no para agregar funcionalidad de ir hacia a atras con las funciones [canGoBack, goBack]
+
+- Los componentes de React Native Elements
+
+- El modal de react native y sus propiedades (visible y onRequireClose)
+
+- Guardar informacion en el dispositivo local con la libreria Async Storage
+
+- Crear custom hooks de React
